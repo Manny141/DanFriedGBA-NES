@@ -1,19 +1,13 @@
-{	
-	"reponame":"DanFriedGBA-NES",
-	"repologo":"https://static.thenounproject.com/png/376601-200.png",
-	"repoauthor":”Daniel Fried",
-	"repodesc":"This is an example Eclipse repo. It has the best roms.",
-	"categories":[GBA]
-	{
-	"categoryname":" NES",
-	"games":[
-	{
-	"name":"Super Contra",
-	"link":"https://dl.dropboxusercontent.com/content_link/Bj0Q3KESxkHuPV9aezbbdJPMK2ox4WnGMIt4J0yONmtMnucEZ3xpROCqoEFvRiPC/file?dl=1",
-	"boxart":"Game Boxart",
-	"system":"NES”
-	}
-	]
-	}
-	]
-	}
+   
+{
+"reponame": "daniel repo",
+"repologo": "https://static.thenounproject.com/png/376601-200.png",      
+"repoauthor": "Daniel F",
+"repodesc": "Have Fun!.",
+"categories": [{
+"categoryname": "NES",
+"games": [{
+"name": "Super Contra",
+"link": "https://dl.dropboxusercontent.com/content_link/Bj0Q3KESxkHuPV9aezbbdJPMK2ox4WnGMIt4J0yONmtMnucEZ3xpROCqoEFvRiPC/file?dl=1",
+"boxart": "https://s-media-cache-ak0.pinimg.com/originals/9c/6e/a4/9c6ea44497238a22d39a4b5f4d35b394.jpg",
+"system": "NES"
