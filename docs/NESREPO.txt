@@ -1,0 +1,21 @@
+{
+   "reponame": "Daniel's repo",
+   "repologo": "https://static.thenounproject.com/png/376601-200.png",
+   "repoauthor": "Daniel F",
+   "repodesc": "Have Fun!.",
+   "categories": 
+   [      
+      {
+         "categoryname": "NES",
+         "games": 
+         [            
+            {
+               "name": "Super Contra",
+               "link": "https://www.mediafire.com/file/kyb4itchk5ygek5/SUPERC.NES",
+               "boxart": "https://s-media-cache-ak0.pinimg.com/originals/9c/6e/a4/9c6ea44497238a22d39a4b5f4d35b394.jpg",
+               "system": "NES"
+            }
+         ]
+      }
+   ]
+}
